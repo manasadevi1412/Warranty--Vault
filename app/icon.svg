@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="3.5" fill="#8b2e23"/>
+  <text x="16" y="24"
+    text-anchor="middle"
+    font-family="'Iowan Old Style', 'Hoefler Text', Georgia, 'Times New Roman', serif"
+    font-size="24"
+    font-weight="500"
+    font-style="italic"
+    fill="#faf7f0">W</text>
+</svg>
